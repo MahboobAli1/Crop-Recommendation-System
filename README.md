@@ -7,8 +7,7 @@
 ## 📌 Overview
 The **Crop Recommendation System** is an end-to-end Machine Learning web application designed to assist farmers and agricultural stakeholders in making data-driven decisions. By analyzing soil metrics and environmental parameters, the model predicts the most suitable crop to cultivate, maximizing yield and minimizing resource waste.
 
-**Try the live application here:** [Live Demo URL]([Insert your Streamlit Cloud URL here])
-
+**Try the live application here:** https://crop-recommendation-system-ai-project.streamlit.app/
 ## 🚀 Features
 - **Intelligent Crop Prediction:** Recommends the optimal crop based on Nitrogen, Phosphorus, Potassium (NPK) levels, temperature, humidity, pH, and rainfall.
 - **Top 3 Suggestions:** Provides probabilistic alternatives in case the primary recommendation is not viable for the user.
